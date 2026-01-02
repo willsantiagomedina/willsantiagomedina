@@ -1,16 +1,58 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**willsantiagomedina/willsantiagomedina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Uiru</h2>
 
-Here are some ideas to get you started:
+Software engineer building backend systems, AI tooling, and modern web applications.  
+I enjoy startups, open-source, and learning by shipping.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### ✦ Languages
+<div align="center">
+
+**TypeScript · JavaScript · Python · C / C++ · HTML · CSS**
+
+</div>
+
+---
+
+### ✦ Tech I Work With
+<div align="center">
+
+React · Tailwind CSS · Node.js · FastAPI · REST APIs  
+Git · Docker · Linux · Modern tooling
+
+</div>
+
+---
+
+### ✦ GitHub Overview
+<div align="center">
+
+<!-- github_stats starts -->
+followers, stars, forks
+<!-- github_stats ends -->
+
+</div>
+
+---
+
+### ✦ Recent Releases
+<!-- recent_releases starts -->
+<!-- recent_releases ends -->
+
+---
+
+### ✦ Writing / Notes
+<!-- blog starts -->
+<!-- blog ends -->
+
+---
+
+<div align="center">
+
+Quietly building things that work.
+
+</div>

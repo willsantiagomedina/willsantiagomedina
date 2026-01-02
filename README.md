@@ -1,4 +1,4 @@
-# 👋 Will / ウィル
+# ☕ Will / ウィル
 
 
 👋 Software engineer building reliable systems and useful products, interested in startups, open source, and learning by shipping. Remote-first and startup-oriented.
@@ -33,4 +33,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=willsantiagomedina&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+

@@ -32,7 +32,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp,go,java,ruby,rust" /><br/>
+    <img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp,go,java,ruby,rust,lua" /><br/>
     <img src="https://skillicons.dev/icons?i=react,html,css,tailwindcss" /><br/>
     <img src="https://skillicons.dev/icons?i=nodejs,fastapi" /><br/>
     <img src="https://skillicons.dev/icons?i=postgresql,mongodb,supabase" /><br/>
@@ -42,51 +42,19 @@
 <br/>
 <hr/>
 
-<h2 align="center">🚀 Projects 🚀</h2>
-<br/>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="360">
-        <a href="https://github.com/willsantiagomedina/DELM-Project" target="_blank"><b>DELM-Project</b></a>
-        <br/>
-        <span>Deep Emotional Learning Model (DELM) demo — a proof of concept for artificial emotions in AI.</span>
-        <br/><br/>
-        <img src="https://skillicons.dev/icons?i=python" />
-      </td>
-      <td align="center" width="360">
-        <a href="https://github.com/willsantiagomedina/Chembot" target="_blank"><b>Chembot</b></a>
-        <br/>
-        <span>A chemistry assistant.</span>
-        <br/><br/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="360">
-        <a href="https://github.com/willsantiagomedina/focus.nvim" target="_blank"><b>focus.nvim</b></a>
-        <br/>
-        <span>Neovim focus tooling.</span>
-        <br/><br/>
-        <img src="https://skillicons.dev/icons?i=neovim,lua" />
-      </td>
-      <td align="center" width="360">
-        <a href="https://github.com/willsantiagomedina/themedash.nvim" target="_blank"><b>themedash.nvim</b></a>
-        <br/>
-        <span>Neovim theme dashboard.</span>
-        <br/><br/>
-        <img src="https://skillicons.dev/icons?i=neovim,lua" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-<hr/>
-
 <div align="center">
   <h2>📈 My Contributions 📈</h2>
   <br>
-  <img alt="contribution chart" src="https://ghchart.rshah.org/2f80ed/willsantiagomedina" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="assets/animeboy.gif" width="220" alt="anime boy gif" />
+      </td>
+      <td align="center">
+        <img alt="contribution chart" src="https://ghchart.rshah.org/2f80ed/willsantiagomedina" />
+      </td>
+    </tr>
+  </table>
   
   <br/><br/><br/>
 </div>

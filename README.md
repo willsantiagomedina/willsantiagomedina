@@ -4,15 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I'm+Will+(%E3%82%A6%E3%82%A3%E3%83%AB)!;" />
 </h1>
 
-<h3 align="center">Highly driven software engineer and builder focused on backend systems, AI tools, and developer productivity.</h3>
+<h3 align="center">Highly driven software engineer and builder focused on backend systems, AI tools, and developer productivity. I enjoy shipping real projects, learning fast, and working across abstraction layers—from low-level systems to modern APIs.</h3>
 
 <br/>
 
 <div align="center">
  
- 🚀 Backend-leaning engineer with strong fundamentals and a curiosity for complex systems
+ 🔭 Backend-leaning engineer with strong fundamentals and a curiosity for complex systems
  
- 🧰 Building developer tools, automation, and AI-assisted software with a focus on clean architecture and reliability
+ 🧰 Building developer tools, automation, and AI-assisted software with a focus on clean architecture, reliability, and long-term scalability
 
  🖥️ macOS + Windows setup, Neovim daily driver
 
@@ -22,23 +22,71 @@
   <a href="https://github.com/willsantiagomedina" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://willsantiagoportfolio.vercel.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
 </div>
 
  <hr/>
  
-<h2 align="center">⚒️ Focus + Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=apple,windows,neovim" />
+    <img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp,go,java,ruby,rust" /><br/>
+    <img src="https://skillicons.dev/icons?i=react,html,css,tailwindcss" /><br/>
+    <img src="https://skillicons.dev/icons?i=nodejs,fastapi" /><br/>
+    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,supabase" /><br/>
+    <img src="https://skillicons.dev/icons?i=git,docker,neovim" /><br/>
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">🚀 Projects 🚀</h2>
+<br/>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="360">
+        <a href="https://github.com/willsantiagomedina/DELM-Project" target="_blank"><b>DELM-Project</b></a>
+        <br/>
+        <span>Deep Emotional Learning Model (DELM) demo — a proof of concept for artificial emotions in AI.</span>
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=python" />
+      </td>
+      <td align="center" width="360">
+        <a href="https://github.com/willsantiagomedina/Chembot" target="_blank"><b>Chembot</b></a>
+        <br/>
+        <span>A chemistry assistant.</span>
+        <br/><br/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="360">
+        <a href="https://github.com/willsantiagomedina/focus.nvim" target="_blank"><b>focus.nvim</b></a>
+        <br/>
+        <span>Neovim focus tooling.</span>
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=neovim,lua" />
+      </td>
+      <td align="center" width="360">
+        <a href="https://github.com/willsantiagomedina/themedash.nvim" target="_blank"><b>themedash.nvim</b></a>
+        <br/>
+        <span>Neovim theme dashboard.</span>
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=neovim,lua" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>📈 My Contributions 📈</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/willsantiagomedina/willsantiagomedina/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution chart" src="https://ghchart.rshah.org/2f80ed/willsantiagomedina" />
   
   <br/><br/><br/>
 </div>
@@ -48,10 +96,21 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=willsantiagomedina&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=willsantiagomedina&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=willsantiagomedina&theme=react" alt="stats"/>
+  <img width=390 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=willsantiagomedina&theme=react" alt="top languages" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willsantiagomedina&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://streak-stats.demolab.com?user=willsantiagomedina&theme=react&border_radius=10" alt="streak stats" />
 </div>
 
 <br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+  <p>Explore my repositories, or reach out if you'd like to collaborate.</p>
+  <a href="https://github.com/willsantiagomedina" target="_blank">GitHub</a> · <a href="https://willsantiagoportfolio.vercel.app/" target="_blank">Portfolio</a>
+</div>
+
+<br/>

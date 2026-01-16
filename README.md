@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software engineer and systems builder focused on low-level programming, AI assistants, and developer tooling. I build fast, minimal, and deeply technical systems across software and hardware — from Neovim plugins to embedded AI and robotics projects.
+Software engineer and systems builder focused on low-level programming, AI assistants, and developer tooling. I build fast, minimal, and deeply technical systems across software and hardware — from Neovim plugins, to backend-projects, all the way to embedded AI and robotics projects.
 
 
 ## 🌐 Socials:
@@ -19,4 +19,3 @@ Software engineer and systems builder focused on low-level programming, AI assis
 ---
 [![](https://visitcount.itsvg.in/api?id=willsantiagomedina&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -14,7 +14,7 @@
     <br/><br/>
     🧰 Building developer tools, automation, and AI-assisted software with a focus on clean architecture, reliability, and long-term scalability
     <br/><br/>
-    🖥️ macOS + Windows setup, Neovim daily driver
+    🖥️ macOS + Arch-Hyperland setup, Neovim daily driver
   </div>
   <br/>
   <div>
